@@ -1,0 +1,1 @@
+# Atualize manualmente removendo a linha de Dose média diária
